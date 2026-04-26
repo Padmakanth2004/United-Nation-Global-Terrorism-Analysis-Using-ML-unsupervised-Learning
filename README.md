@@ -166,13 +166,14 @@ Mini-Batch K-Means achieves the **best score across all three metrics**, confirm
 
 The Power BI dashboard is divided into four interactive pages: **Home**, **Overview**, **Risk Analysis**, and **Advanced Insights**.
 
-> 📥 [Download Power BI Dashboard (.zip)](https://drive.google.com/file/d/1kvBoUXOs5pd23HLeoWiV2QqwZkyEyz90/view?usp=sharing)
+<img width="251" height="201" alt="image" src="https://github.com/user-attachments/assets/2bc34be3-5274-4a7b-ba48-d7adcf5b1603" />
 
 ---
 
 ### 📍 Page 1 — Home (Overview Dashboard)
 
-![Power BI Home Dashboard](screenshots/Screenshot_2026-04-26_174044.png)
+<img width="1292" height="730" alt="Screenshot 2026-04-26 174044" src="https://github.com/user-attachments/assets/78dec70a-4f0b-498f-b013-3fb4ab60056e" />
+
 
 **KPI Cards:**
 - Total Incidents: **181.69K**
@@ -189,7 +190,8 @@ The Power BI dashboard is divided into four interactive pages: **Home**, **Overv
 
 ### 📍 Page 2 — Overview Dashboard
 
-![Power BI Overview Dashboard](screenshots/Screenshot_2026-04-26_174116.png)
+<img width="1297" height="736" alt="Screenshot 2026-04-26 174116" src="https://github.com/user-attachments/assets/528cff5d-d2c2-4f6d-a4b4-92b10ef9ebc3" />
+
 
 **Visualizations:**
 - **Terrorism Trend Over Years** — annotated line chart with exact values per decade (0.7K in 1970 → 16.9K peak in 2014 → 10.9K in 2019)
@@ -200,7 +202,8 @@ The Power BI dashboard is divided into four interactive pages: **Home**, **Overv
 
 ### 📍 Page 3 — Risk Analysis Dashboard
 
-![Power BI Risk Analysis Dashboard](screenshots/Screenshot_2026-04-26_174139.png)
+<img width="1288" height="725" alt="Screenshot 2026-04-26 174139" src="https://github.com/user-attachments/assets/d6167a56-d1bf-4199-81b8-870fd2f47919" />
+
 
 **Visualizations:**
 - **Top 10 Countries by Attacks** — horizontal bar chart: Iraq leads at ~30K incidents, followed by Pakistan, Afghanistan, India, Colombia, Philippines, Peru
@@ -212,7 +215,8 @@ The Power BI dashboard is divided into four interactive pages: **Home**, **Overv
 
 ### 📍 Page 4 — Advanced Insights Dashboard
 
-![Power BI Advanced Insights Dashboard](screenshots/Screenshot_2026-04-26_174215.png)
+<img width="1291" height="722" alt="Screenshot 2026-04-26 174215" src="https://github.com/user-attachments/assets/13f70642-67a1-4780-b44b-b17aa319d3e7" />
+
 
 **Visualizations:**
 - **Region-wise Terrorism Trend Over Time** — multi-line area chart showing how each region's attack count evolved from 1970–2019; Middle East & North Africa and South Asia show sharpest growth after 2010, peaking at ~15K–20K incidents
