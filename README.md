@@ -2,7 +2,8 @@
 
 ## Machine Learning Workflow
 
-![Machine Learning Process](ML-workflow.svg)
+<img width="1440" height="1960" alt="image" src="https://github.com/user-attachments/assets/897ca330-295e-4efb-94ef-eb85a602f98e" />
+
 
 ---
 
